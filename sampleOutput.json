@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Lakewood church: What we know about Texas megachurch shooting",
+    "description": "A woman was shot and killed by police after she opened fire at Joel Osteen’s Texas megachurch.",
+    "url": "https://www.bbc.co.uk/news/world-us-canada-68277166",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/D0CC/production/_132625435_476e420ed7bbcf8f4ddbf09016a14e2553f0fd76.jpg",
+    "publishedAt": "2024-02-12T16:07:19.5323346Z",
+    "content": "A Texas woman has been shot and killed after she opened fire in a crowded megachurch owned by the evangelical pastor Joel Osteen. \r\nTwo off-duty police officers, working as church security, shot and … [+2498 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Nato chief says Donald Trump comments 'undermine all of our security'",
+    "description": "The presidential hopeful suggests the US will not protect allies failing to meet defence spending targets.",
+    "url": "https://www.bbc.co.uk/news/world-us-canada-68269354",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1202B/production/_132617737_e94b4452da24e96fe2d7992f3d46c2d6c460116c0_0_4000_26681000x667.jpg",
+    "publishedAt": "2024-02-12T15:52:20.0074433Z",
+    "content": "Media caption, Watch: Trump would not protect countries from attack by Russia if they do not pay enough into Nato\r\nDonald Trump's suggestion the US would not protect Nato allies failing to spend enou… [+4957 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "'Lol hey guys' - Biden joins TikTok despite security concerns",
+    "description": "The president joins the app to reach younger voters, despite it being blocked on most US government devices.",
+    "url": "https://www.bbc.co.uk/news/world-us-canada-68275634",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1095C/production/_132623976_gettyimages-1988742998.jpg",
+    "publishedAt": "2024-02-12T15:07:15.9931002Z",
+    "content": "President Joe Biden's campaign has joined TikTok, despite the app being banned on most US government devices over security concerns. \r\nHis campaign launched its account with the username \"@bidenhq\" d… [+1562 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Pakistan election: What happens after Imran Khan vote surprise?",
+    "description": "Days after the vote, Pakistanis still don't know who will form their next government.",
+    "url": "https://www.bbc.co.uk/news/world-asia-68271462",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/12A0E/production/_132620367_cf8458abac9c286ededc0fda35352eeca2a42e16.jpg",
+    "publishedAt": "2024-02-12T14:07:16.6487292Z",
+    "content": "Pakistanis still do not know which party will form their next government or who their next prime minister will be four days after the hotly-contested general elections.\r\nDespite former PM Imran Khan'… [+5000 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Israel rescues two hostages in Rafah amid deadly strikes",
+    "description": "The military says the pair are in \"good medical condition\"; meanwhile deadly attacks have been reported in Gaza.",
+    "url": "https://www.bbc.co.uk/news/world-middle-east-68271340",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1388C/production/_132621008_untitled-2.jpg",
+    "publishedAt": "2024-02-12T10:52:17.6951961Z",
+    "content": "Israel says two male Israeli hostages have been rescued in a raid in Rafah, amid reports of heavy Israeli air strikes on the southern Gazan city.\r\nThe Israeli military says the two men are in \"good m… [+3702 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Israel-Gaza war: Israel says two hostages rescued as heavy strikes reported in Rafah",
+    "description": "The military says the pair are in \"good medical condition\"; meanwhile deadly attacks are reported in Gaza.",
+    "url": "https://www.bbc.co.uk/news/live/world-68271878",
+    "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png",
+    "publishedAt": "2024-02-12T07:37:15.9609242Z",
+    "content": "The airstrikes caused panic in Rafah. \r\nResidents said it included gunfire from Apache helicopters and naval vessels. At least two mosques and more than a dozen houses were reported to have been hit.… [+717 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Rafah: The next battle?",
+    "description": "Israel says it will expand its military operations all the way south into Rafah.",
+    "url": "https://www.bbc.co.uk/news/world-middle-east-68272136",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/319E/production/_132620721_p0hbdv76.jpg",
+    "publishedAt": "2024-02-12T07:22:18.2278006Z",
+    "content": "More than a million displaced Palestinians have found shelter in the south of the Gaza strip after fleeing the fighting in the north.\r\nNow Israel says it will expand its military operations all the w… [+473 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Kenya's Kelvin Kiptum: Marathon world record holder dies in road accident",
+    "description": "Kelvin Kiptum was near the Kenyan town of Eldoret when he was killed, an official tells the BBC.",
+    "url": "https://www.bbc.co.uk/news/world-africa-68270866",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/15AD7/production/_132619788_e19163db444b079c031a33f248a6072d51149c6f1936_738_1506_8471000x563.jpg",
+    "publishedAt": "2024-02-11T23:52:16.6485339Z",
+    "content": "The men's marathon world record holder, Kenya's Kelvin Kiptum, 24, has died in a road accident in his home country, a Kenyan athletics official has confirmed to the BBC.\r\nHe was travelling in a vehic… [+1028 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Lloyd Austin: Defence secretary returns to hospital",
+    "description": "Lloyd Austin faced criticism last month for failing to disclose a previous hospital stay.",
+    "url": "https://www.bbc.co.uk/news/world-us-canada-68270748",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/D98B/production/_132619655_lloydaustin.jpg",
+    "publishedAt": "2024-02-11T22:07:17.1029814Z",
+    "content": "Media caption, Watch: \"I did not handle this right,\" Lloyd Austin apologises\r\nUS Defence Secretary Lloyd Austin has been admitted to hospital again, one week after he apologised for a secretive hospi… [+897 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Super Bowl 2024: Taylor Swift touches down in Las Vegas",
+    "description": "Many wondered if the singer, who is dating the Chiefs' Kelce, would make it back from Tokyo in time.",
+    "url": "https://www.bbc.co.uk/news/world-us-canada-68269413",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8A99/production/_132618453_gettyimages-1970250659.jpg",
+    "publishedAt": "2024-02-11T21:52:16.3675811Z",
+    "content": "Taylor Swift has touched down in Las Vegas, where she is expected to be attending the Super Bowl on Sunday, the NFL said in a statement.\r\nThe singer, who is dating the Kansas City Chiefs' Travis Kelc… [+2416 chars]"
+    }
+    ]
+    }
